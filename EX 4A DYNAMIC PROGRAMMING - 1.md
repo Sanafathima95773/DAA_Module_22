@@ -18,7 +18,7 @@ To find longest common subsequence using Dynamic Programming.
 10. Navigate Table: If not equal, move in the direction of the larger LCS value in table c.  
 
 ## Program:
-```
+```Python
 Program to implement the longest common subsequence using Dynamic Programming
 
 Developed by: Sana Fathima H
