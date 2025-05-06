@@ -18,7 +18,7 @@ To find the longest string (or strings) that is a substring (or are substrings) 
 10.Print Result: Display the longest common substring.  
 
 ## Program:
-```
+```Python
 Program to implement the longest common substring problem
 
 Developed by: Sana Fathima H
