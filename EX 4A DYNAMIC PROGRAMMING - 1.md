@@ -56,6 +56,7 @@ u = input()
 v = input()
 c = lcs(u, v)
 print_lcs(u, v, c)
+```
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/e24d031d-6c1a-444a-aecb-4c17738c5e27)
